@@ -1,0 +1,7 @@
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture1\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
