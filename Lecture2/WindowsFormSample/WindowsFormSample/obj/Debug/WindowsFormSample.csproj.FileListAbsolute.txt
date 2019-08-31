@@ -1,0 +1,13 @@
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.csprojAssemblyReference.cache
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.ManagerItems.resources
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.Properties.Resources.resources
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.csproj.GenerateResource.cache
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.csproj.CoreCompileInputs.cache
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\bin\Debug\WindowsFormSample.exe.config
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\bin\Debug\WindowsFormSample.exe
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\bin\Debug\WindowsFormSample.pdb
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.exe
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.pdb
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.MainDesignForm.resources
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.MainApplication.resources
+E:\Development\ASP.NET\TeckSlick_ASPNET_Batch4\Lecture2\WindowsFormSample\WindowsFormSample\obj\Debug\WindowsFormSample.ManagerItemsMDI.resources
