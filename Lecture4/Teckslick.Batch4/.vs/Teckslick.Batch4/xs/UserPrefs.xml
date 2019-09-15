@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{49011650-F5B4-49C0-8B84-1E4E2704F289}|Default">
+  <MonoDevelop.Ide.ItemProperties.Teckslick.Batch4.WinApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Teckslick.Batch4" expanded="True">
+            <Node name="Teckslick.Batch4.WinApp" expanded="True">
+              <Node name="Cities.cs" expanded="True" />
+              <Node name="Countries.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
