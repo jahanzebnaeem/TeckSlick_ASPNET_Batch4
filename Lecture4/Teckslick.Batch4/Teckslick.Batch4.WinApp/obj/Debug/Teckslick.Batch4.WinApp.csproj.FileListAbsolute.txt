@@ -1,0 +1,14 @@
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.csprojAssemblyReference.cache
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.Properties.Resources.resources
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.csproj.GenerateResource.cache
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\bin\Debug\Teckslick.Batch4.WinApp.exe.config
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\bin\Debug\Teckslick.Batch4.WinApp.exe
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\bin\Debug\Teckslick.Batch4.WinApp.pdb
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.frmCity.resources
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.frmCountry.resources
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.frmMain.resources
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.exe
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.pdb
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.frmCities.resources
+C:\Users\jahanzebnaeem\source\repos\Teckslick.Batch4\Teckslick.Batch4.WinApp\obj\Debug\Teckslick.Batch4.WinApp.frmCountries.resources
