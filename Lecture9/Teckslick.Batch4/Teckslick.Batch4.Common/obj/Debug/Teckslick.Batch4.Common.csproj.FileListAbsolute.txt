@@ -4,3 +4,8 @@ Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture6\Teckslick.Batch4
 Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture6\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.csproj.CoreCompileInputs.cache
 Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture6\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.dll
 Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture6\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture9\Teckslick.Batch4\Teckslick.Batch4.Common\bin\Debug\Teckslick.Batch4.Common.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture9\Teckslick.Batch4\Teckslick.Batch4.Common\bin\Debug\Teckslick.Batch4.Common.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture9\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture9\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture9\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Debug\Teckslick.Batch4.Common.pdb
