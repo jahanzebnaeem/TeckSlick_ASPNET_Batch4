@@ -1,0 +1,11 @@
+﻿div{
+    border:solid 1px red;
+}
+
+.newDiv{
+    border:solid 1px blue;
+}
+
+#blueDiv{
+    border:solid 1px orange;
+}
