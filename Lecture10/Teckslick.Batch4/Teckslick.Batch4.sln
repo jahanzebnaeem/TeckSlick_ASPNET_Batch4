@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckslick.Batch4.Common", "Teckslick.Batch4.Common\Teckslick.Batch4.Common.csproj", "{855B5956-4007-426A-AFFE-91347053A442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckslick.Batch4.SalesDemo", "Teckslick.Batch4.SalesDemo\Teckslick.Batch4.SalesDemo.csproj", "{B4D59DA0-DCF5-4D8D-8667-9124D14FF15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckslick.Batch4.WebUI", "Teckslick.Batch4.WebUI\Teckslick.Batch4.WebUI.csproj", "{5B6807C3-E36D-4C8E-BC72-A04B5262C5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckslick.Batch4.Application", "Teckslick.Batch4.Application\Teckslick.Batch4.Application.csproj", "{7C63E279-6E21-42C1-AE9D-9F5A6C3A6AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckslick.Batch4.DAL", "Teckslick.Batch4.DAL\Teckslick.Batch4.DAL.csproj", "{9068AE72-E37E-42E5-B344-6748D1A67005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855B5956-4007-426A-AFFE-91347053A442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855B5956-4007-426A-AFFE-91347053A442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855B5956-4007-426A-AFFE-91347053A442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855B5956-4007-426A-AFFE-91347053A442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D59DA0-DCF5-4D8D-8667-9124D14FF15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D59DA0-DCF5-4D8D-8667-9124D14FF15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D59DA0-DCF5-4D8D-8667-9124D14FF15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D59DA0-DCF5-4D8D-8667-9124D14FF15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6807C3-E36D-4C8E-BC72-A04B5262C5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6807C3-E36D-4C8E-BC72-A04B5262C5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6807C3-E36D-4C8E-BC72-A04B5262C5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6807C3-E36D-4C8E-BC72-A04B5262C5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C63E279-6E21-42C1-AE9D-9F5A6C3A6AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C63E279-6E21-42C1-AE9D-9F5A6C3A6AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C63E279-6E21-42C1-AE9D-9F5A6C3A6AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C63E279-6E21-42C1-AE9D-9F5A6C3A6AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9068AE72-E37E-42E5-B344-6748D1A67005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9068AE72-E37E-42E5-B344-6748D1A67005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9068AE72-E37E-42E5-B344-6748D1A67005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9068AE72-E37E-42E5-B344-6748D1A67005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {144D5430-046E-49FC-BEC7-1A4EFEF6F435}
+	EndGlobalSection
+EndGlobal
