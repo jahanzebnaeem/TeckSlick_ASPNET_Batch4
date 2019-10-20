@@ -29,5 +29,9 @@ namespace MVCController.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<MVCController.Models.Country> Countries { get; set; }
+
+        public System.Data.Entity.DbSet<MVCController.Models.City> Cities { get; set; }
     }
 }
