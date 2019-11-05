@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCThemeCustom", "MVCThemeCustom\MVCThemeCustom.csproj", "{EC871E6F-5B18-47DC-83CA-3BB66016F30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebIntro", "CoreWebIntro\CoreWebIntro.csproj", "{14152D04-D491-43A1-BCD1-07252BF6508B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC871E6F-5B18-47DC-83CA-3BB66016F30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC871E6F-5B18-47DC-83CA-3BB66016F30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC871E6F-5B18-47DC-83CA-3BB66016F30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC871E6F-5B18-47DC-83CA-3BB66016F30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14152D04-D491-43A1-BCD1-07252BF6508B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14152D04-D491-43A1-BCD1-07252BF6508B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14152D04-D491-43A1-BCD1-07252BF6508B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14152D04-D491-43A1-BCD1-07252BF6508B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA927CC-3A78-46D7-B00C-96679002EF55}
+	EndGlobalSection
+EndGlobal
