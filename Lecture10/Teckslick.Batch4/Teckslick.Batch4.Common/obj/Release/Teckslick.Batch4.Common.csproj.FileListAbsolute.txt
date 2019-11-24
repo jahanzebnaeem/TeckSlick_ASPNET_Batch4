@@ -1,0 +1,4 @@
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.Common\bin\Release\Teckslick.Batch4.Common.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.Common\bin\Release\Teckslick.Batch4.Common.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Release\Teckslick.Batch4.Common.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.Common\obj\Release\Teckslick.Batch4.Common.pdb

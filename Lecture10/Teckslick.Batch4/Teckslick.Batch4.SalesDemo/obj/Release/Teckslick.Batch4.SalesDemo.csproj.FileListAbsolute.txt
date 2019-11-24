@@ -1,0 +1,8 @@
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\bin\Release\Teckslick.Batch4.SalesDemo.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\bin\Release\Teckslick.Batch4.SalesDemo.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\bin\Release\Teckslick.Batch4.Common.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\bin\Release\Teckslick.Batch4.Common.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\obj\Release\Teckslick.Batch4.SalesDemo.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\obj\Release\Teckslick.Batch4.SalesDemo.csproj.CopyComplete
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\obj\Release\Teckslick.Batch4.SalesDemo.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture10\Teckslick.Batch4\Teckslick.Batch4.SalesDemo\obj\Release\Teckslick.Batch4.SalesDemo.pdb
