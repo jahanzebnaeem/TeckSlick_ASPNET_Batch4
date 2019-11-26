@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCCore", "WebMVCCore\WebMVCCore.csproj", "{EF291C5F-AB99-4E6D-BC13-8C811A45BC6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMVCCore", "WebMVCCore\WebMVCCore.csproj", "{EF291C5F-AB99-4E6D-BC13-8C811A45BC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCCoreEmpty", "WebMVCCoreEmpty\WebMVCCoreEmpty.csproj", "{52E4C7C8-8812-4E53-B65B-AA658F9D2E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EF291C5F-AB99-4E6D-BC13-8C811A45BC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF291C5F-AB99-4E6D-BC13-8C811A45BC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF291C5F-AB99-4E6D-BC13-8C811A45BC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E4C7C8-8812-4E53-B65B-AA658F9D2E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E4C7C8-8812-4E53-B65B-AA658F9D2E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E4C7C8-8812-4E53-B65B-AA658F9D2E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E4C7C8-8812-4E53-B65B-AA658F9D2E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
