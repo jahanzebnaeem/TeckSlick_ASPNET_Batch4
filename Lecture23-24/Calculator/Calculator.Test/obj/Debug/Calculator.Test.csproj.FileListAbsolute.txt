@@ -1,0 +1,15 @@
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Calculator.Library.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Calculator.Library.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csproj.CopyComplete
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Test\obj\Debug\Calculator.Test.pdb

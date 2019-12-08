@@ -1,0 +1,5 @@
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Library\bin\Debug\Calculator.Library.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Library\bin\Debug\Calculator.Library.pdb
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Library\obj\Debug\Calculator.Library.dll
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\Calculator\Calculator.Library\obj\Debug\Calculator.Library.pdb

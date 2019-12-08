@@ -1,0 +1,1 @@
+Y:\Development\Teaching\DotNet\TeckSlick_ASPNET_Batch4\Lecture23-24\MVCIdentityIntro\MVCIdentityIntro\obj\Debug\MVCIdentityIntro.csprojAssemblyReference.cache
